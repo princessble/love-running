@@ -47,6 +47,10 @@ h1 {
     letter-spacing: 4px;
     list-style-type: none;
 }
+
+#menu > li {
+    margin-bottom: 1em;
+}
 /* main content*/
 main {
     background-color: lightblue;
